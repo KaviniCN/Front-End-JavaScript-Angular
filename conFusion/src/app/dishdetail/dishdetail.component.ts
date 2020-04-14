@@ -50,9 +50,13 @@ const DISH = {
   styleUrls: ['./dishdetail.component.scss']
 })
 export class DishdetailComponent implements OnInit {
+      
+    dish = DISH;
+  
+  constructor() { 
 
-  dish = DISH;
-  constructor() { }
+ 
+  }
 
   ngOnInit(): void {
   }

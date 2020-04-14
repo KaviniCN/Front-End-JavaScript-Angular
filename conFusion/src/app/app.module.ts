@@ -30,8 +30,7 @@ import { DishdetailComponent } from './dishdetail/dishdetail.component';
     MatListModule,
     MatGridListModule,
     MatCardModule,
-    MatButtonModule
-
+    MatButtonModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
