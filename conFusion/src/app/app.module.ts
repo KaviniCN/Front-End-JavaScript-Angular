@@ -63,7 +63,7 @@ import { LeaderService } from './services/leader.service';
   providers: [
     DishService,
     PromotionService,
-    LeaderService
+    LeaderService,
   ],
   entryComponents: [
     LoginComponent
